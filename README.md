@@ -75,7 +75,7 @@ Este enfoque demuestra que **Excel puede funcionar como una pequeña aplicación
 
 ## 🧾 Autor
 
-**Desarrollado por:** *[Manuel Ramos]*  
+**Desarrollado por:** *Manuel Ramos*  
 **Lenguaje principal:** Excel VBA / Macros  
 **Archivo:** `proyectoPortafolio.xlsm`
 
